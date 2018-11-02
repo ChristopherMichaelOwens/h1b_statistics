@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ed26376-2019-4411-b23d-05a198a5d7a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/input/h1b_input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/temp/input/h1b_input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/temp/output/top_10_occupations.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/temp/output/top_10_states.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/temp/run.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/temp/src/h1b_counting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/tests/your-own-test_1/input/h1b_input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/tests/your-own-test_1/output/top_10_occupations.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insight_testsuite/tests/your-own-test_1/output/top_10_states.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h1b_counting.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/h1b_counting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helper_functions.py" beforeDir="false" />
-    </list>
+    <list default="true" id="6ed26376-2019-4411-b23d-05a198a5d7a2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

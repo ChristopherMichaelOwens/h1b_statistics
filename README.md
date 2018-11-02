@@ -23,6 +23,7 @@ Those dictionaries are then turned into a list of lists, and sorted by the count
 The column names in the data file must match "SOC_NAME", "CASE_STATUS", and "WORKSITE_STATE". I ran into problems with the worksite state in the 2014 data, and the column names were so dissimilar, that I'm not sure how to ensure a correct match, as there are different instances of "state" columns. 
 
 # Run Instructions
+If necessary, ensure column names of desired data match the above in limitations, otherwise they will need to be changed in the code. 
 
 Navigate in the command line to the h1b_statistics folder, and type "./run.sh". Output should be in the output folder from the root directory.
 
